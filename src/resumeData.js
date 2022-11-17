@@ -1,104 +1,79 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "name": "Snigdh Karki",
+    "role": "Fullstack Developer and Data Analyst",
+    "linkedinId":"982876243",
+    "skypeid": "",
+    "roleDescription": "I am a programmer with expertise in the field of fullstack development and data analyst currently studying computer engineering in Pulchowk campus",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/snigdh-karki-982876243/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/snigdhkarki",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a first year student at Tribhuwan University studying Computer Engineering at Pulchowk. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "address":"Nepal",
+    "website":"https://snigdhkarki.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
-    ],
-    "work":[
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Tribhuwan University",
+        "specialization":"Computer Engineering",
+        "MonthOfPassing":"Nov",
+        "YearOfPassing":"2026",
+        "Achievements":"Successfully finished Odin project and MIT Edx course on python"
       }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"HTML5, CSS, JS, Reactjs"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Python, SQL"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Linux"
+      },
+      {
+        "skillname":"Firebase"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"To-do-list",
+        "description":" Here you can see the use of web storage api in website ",
+        "imgurl":"images/project1.png",
+        "link":"https://snigdhkarki.github.io/To-do-list/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Calculator",
+        "description":"Here you can see the use of javascript in a complicated senario",
+        "imgurl":"images/project2.png",
+        "link":'https://snigdhkarki.github.io/Calculator/'
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Memory-Game",
+        "description":"Here you can see a memory game I made using React",  
+        "imgurl":"images/project3.png",
+        "link":"https://snigdhkarki.github.io/Memorycard/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Weather-Forcast",
+        "description":"Here you can see the use of API and asyncronous code",
+        "imgurl":"images/project4.png",
+        "link":" https://snigdhkarki.github.io/weatherforcast/"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Yesterday is history. Tomorrow is a mystery. Today is a gift. That's why we call it 'The Present' ",
+        "name":"Eleanor Roosevelt"
       }
     ]
   }
