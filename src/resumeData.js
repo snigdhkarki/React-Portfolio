@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Fullstack Developer and Data Analyst",
     "linkedinId":"982876243",
     "skypeid": "",
-    "roleDescription": "I am a programmer with expertise in the field of fullstack development and data analyst currently studying computer engineering in Pulchowk campus",
+    "roleDescription": "I am a programmer with expertise in the field of Fullstack Development and Data Analysis currently studying computer engineering in Pulchowk campus",
     "socialLinks":[
         {
           "name":"linkedin",
